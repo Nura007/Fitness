@@ -19,8 +19,7 @@ public class FitnessApp {
         System.out.println("User created: " + user);
 
         // Create a workout plan
-        System.ogit clone https://github.com/NUra007/FitnessTracker.git
-        ut.print("Enter the name of your workout plan: ");
+        System.out.print("Enter the name of your workout plan: ");
         String workoutName = scanner.nextLine();
 
         System.out.print("Enter the duration of the workout (in minutes): ");
